@@ -15,7 +15,7 @@ import (
 	"strings"
 	"testing"
 
-	"golang.org/x/net/webdav/internal/xml"
+	"github.com/speijnik/golang-net/webdav/forked/xml"
 )
 
 func TestReadLockInfo(t *testing.T) {

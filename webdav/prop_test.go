@@ -12,7 +12,7 @@ import (
 	"sort"
 	"testing"
 
-	"golang.org/x/net/webdav/internal/xml"
+	"github.com/speijnik/golang-net/webdav/forked/xml"
 )
 
 func TestMemPS(t *testing.T) {

@@ -14,7 +14,7 @@ import (
 	"net/http"
 	"time"
 
-	"golang.org/x/net/webdav/internal/xml"
+	"github.com/speijnik/golang-net/webdav/forked/xml"
 )
 
 // http://www.webdav.org/specs/rfc4918.html#ELEMENT_lockinfo
